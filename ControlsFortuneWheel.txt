@@ -1,0 +1,8 @@
+----{ Controls for Fortune Wheel }----
+
+
+1 - Go to Wheel 1
+2 - Go to wheel 2
+3 - Go to wheel 3
+Space - Go to the next Wheel
+X - Back to Free Roam
